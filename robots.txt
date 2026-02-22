@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pleasantonplumbingco.com/sitemap.xml
